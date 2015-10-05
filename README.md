@@ -12,6 +12,6 @@
 	+ `npm install`
 
 3. Start the task runner
-	+ `grunt server` for connect:server and watch
+	+ `grunt server` for php:dist
 
-4. Go to: `http://localhost:9000/`
+4. Go to: `http://localhost:9000/<Dir>/<login.php | index.php | index.html>`
